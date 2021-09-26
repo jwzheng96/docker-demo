@@ -1,2 +1,2 @@
 # docker-demo
-A tutorial on deploying frontend and backend applications with Docker
+A tutorial on dockerizing your frontend and backend applications
